@@ -1,1 +1,1 @@
-# OscarAq-Estructuras-de-datos---2025-S1
+# Estructuras de datos 2025-S1
